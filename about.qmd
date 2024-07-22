@@ -2,4 +2,5 @@
 title: "About"
 ---
 
-Tina
+## About Me
+My name is **Tina**, and I graduated from *Williams College*.
